@@ -33,6 +33,11 @@ title = '0314-3'
 action = 'action'
 button = 'button'
 
+[[banners]]
+title = '0315-1'
+action = 'aaa'
+button = 'sss'
+
 [semester_start_date]
 387 = '2022-02-21'
 404 = '2022-09-05'
